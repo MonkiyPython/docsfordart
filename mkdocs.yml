@@ -1,4 +1,5 @@
 site_name: Dart Programming
+site_url: https://dart.monkypython.com/
 nav:
     - Home: index.md
     - About: about.md
