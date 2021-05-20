@@ -1,4 +1,4 @@
-site_name: How I learnt Dart
+site_name: Dart Programming
 nav:
     - Home: index.md
     - About: about.md
